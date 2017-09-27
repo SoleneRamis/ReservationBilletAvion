@@ -26,10 +26,10 @@ Pour la deuxième fonctionnalité le personnel utilise une table lui affichant :
   - La liste des magazines à répartir - La possibilité de modifier le siège et le menu du client.
 ```
 
-![resa](img/resa/index-tile.jpg)
+![resa](img/index-tile.jpg)
 
-![resa](img/resa/eco-horz.jpg)
+![resa](img/eco-horz.jpg)
 
-![resa](img/resa/sup-tile.jpg)
+![resa](img/sup-tile.jpg)
 
-![resa](img/resa/recap.bmp)
+![resa](img/recap.bmp)
